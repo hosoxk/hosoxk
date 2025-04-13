@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🎨 **Game Artist & Coder**
-- 💻 **Languages & Tools:** C, Maya, Photoshop.
+- 💻 **Languages & Tools:** C ; Processing(OOP), Maya, Photoshop.
 - 🌟 **Dream:** To help create an indie game with meaning someday!
 - 🌸 **Interests:** Tactic games, fantasy RPGs, game storytelling and art design!
 
