@@ -14,6 +14,6 @@
 ---
 
 ### ✨ What I'm Working On 🛠️
-- 🎭 School 42's rank 04. Including creating a doom-based game using raytracing. I'm also working on my first website. (^.^)
+- 🎭 School 42's rank 04. Including creating a doom-based game using raytracing. (^.^)
 
 ---
